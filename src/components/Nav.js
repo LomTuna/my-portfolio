@@ -5,8 +5,8 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { Link } from "react-router-dom";
-import LinkedInLogo from "/Users/tomluna/Desktop/Portfolio2/Portfolio-2/portfolio-2/src/assets/291709_logo_linked in_social network_social_social media_icon.png";
-import GitHubLogo from "/Users/tomluna/Desktop/Portfolio2/Portfolio-2/portfolio-2/src/assets/291716_github_logo_social network_social_icon.png";
+import LinkedInLogo from "/Users/tomluna/my-portfolio/src/assets/291709_logo_linked in_social network_social_social media_icon.png";
+import GitHubLogo from "/Users/tomluna/my-portfolio/src/assets/291716_github_logo_social network_social_icon.png";
 import Hero from "./Hero";
 
 function Navi() {

@@ -1,6 +1,6 @@
 import Image from "react-bootstrap/Image";
 import React from "react";
-import Headshot from "/Users/tomluna/Desktop/Portfolio2/Portfolio-2/portfolio-2/src/assets/looking-down.jpeg";
+import Headshot from "/Users/tomluna/my-portfolio/src/assets/looking-down.jpeg";
 import Container from "react-bootstrap/esm/Container";
 import Row from "react-bootstrap/esm/Row";
 import Col from "react-bootstrap/esm/Col";
