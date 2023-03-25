@@ -8,6 +8,7 @@ import Button from "react-bootstrap/esm/Button";
 import Card from "react-bootstrap/esm/Card";
 import Project1 from '../assets/whatcha-drinking.jpeg';
 import Project2 from '../assets/Pathfinder.png'
+import Projects from "./Projects";
 
 
 function Hero() {
@@ -25,7 +26,7 @@ function Hero() {
                   <p style={{ fontFamily: "Contrail One" }}>
                     Creating projects with eye-catching design, optimized
                     performance, and user satisfaction. Check out some of my
-                    projects <a className="projectLink" href="/projects">here!</a>
+                    projects below!
                   </p>
                 </Col>
                 <Col lg={4}>

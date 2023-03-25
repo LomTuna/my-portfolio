@@ -23,10 +23,7 @@ function App() {
     <div className='wholeApp'>
       <Navi/>
       <div className='container'>
-        <Routes>
-        <Route path='/' element={<Hero/>}/>
-        <Route path='/projects' element={<Projects/>}/>
-        </Routes>
+        <Hero/>
       </div>
       <div>
        <About/>
