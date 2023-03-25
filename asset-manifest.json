@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio-2/static/css/main.dae59aab.css",
+    "main.js": "/Portfolio-2/static/js/main.f2a17f76.js",
+    "static/media/Pathfinder.png": "/Portfolio-2/static/media/Pathfinder.ef7d8125e2e1d22cffed.png",
+    "static/media/whatcha-drinking.jpeg": "/Portfolio-2/static/media/whatcha-drinking.33dfe8501d0999ef51f7.jpeg",
+    "static/media/looking-down.jpeg": "/Portfolio-2/static/media/looking-down.f0f7663ae00aa515b92d.jpeg",
+    "static/media/291716_github_logo_social network_social_icon.png": "/Portfolio-2/static/media/291716_github_logo_social network_social_icon.ba9cb8d57d53e7189c48.png",
+    "static/media/291709_logo_linked in_social network_social_social media_icon.png": "/Portfolio-2/static/media/291709_logo_linked in_social network_social_social media_icon.131b233a651212306d06.png",
+    "index.html": "/Portfolio-2/index.html",
+    "main.dae59aab.css.map": "/Portfolio-2/static/css/main.dae59aab.css.map",
+    "main.f2a17f76.js.map": "/Portfolio-2/static/js/main.f2a17f76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae59aab.css",
+    "static/js/main.f2a17f76.js"
+  ]
+}

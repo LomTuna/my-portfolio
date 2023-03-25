@@ -1,0 +1,256 @@
+* {
+  
+}
+.wholeApp {
+  background-color: #54514D;
+}
+
+.Navi {
+  /* background-color: #DA7A37; */
+  height: 90px;
+  font-style: bold;
+  font-size: 15px;
+  color: #EFB90A;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Hero {
+  padding-bottom: 10rem;
+}
+
+.title {
+  display: flex;
+  justify-content: start;
+  align-items: flex-start;
+  font-size: 55px;
+}
+
+.NavText {
+  color: #D6D4D2;
+  display: flex;
+  background: none;
+  gap: 1.5rem;
+}
+
+.NavText a {
+  color: #EFB90A ;
+}
+
+a:link, a:visited, a:hover,  a:active {
+  text-decoration: none;
+
+}
+
+.NavText :hover {
+  color: #00a651 !important;
+  transform: scale(1.25);
+  gap: 1.5rem;
+
+}
+
+
+
+
+.NavList Link {
+  text-decoration: none;
+  font-size: 90px;
+  color: #989C63;
+}
+
+.nav-options {
+  background: none;
+ display: flex;
+ justify-content: space-between;
+ align-items: flex-end;
+}
+
+
+.Name {
+  font-size: px;
+}
+
+
+
+.headshot { 
+  display: flex;
+  justify-content:space-between;
+  align-items: flex-start;
+}
+
+.headshot img {
+  box-shadow: 4.5px 4.5px #EFB90A;
+  border: #54514D, 7.5px;
+}
+
+
+.image h1 {
+  margin: 5%;
+  justify-content: center;
+  font-size: 100px;
+  color: #D6D4D2;
+}
+.image p {
+  font-size: 25px;
+  color: #787776;
+}
+
+.image {
+  margin: 5em;
+  object-position: right;
+}
+
+.GradText {
+  margin: 5rem;
+  display: flex;
+  gap: .5rem ;
+}
+
+.GradTextTitle {
+  color: #005BAB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem;
+  padding-top: 75px;
+}
+
+.About :before {
+  
+}
+
+.About {
+  
+  background: #787776;
+  color: #005BAB;
+  display: flex;
+  margin: 0rem;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
+
+.About h1 {
+
+  font-size: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.aboutCert h1 {
+  display: flex;
+  text-align: center;
+}
+
+
+
+.GradText p {
+  color: #005BAB;
+}
+
+hr.about {
+  border: #989C63 100px;
+}
+
+.expList {
+  text-align: center;
+  
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+  
+}
+
+.projects {
+  padding: 7rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10rem;
+  justify-content: center;
+  grid-row: inherit;;
+}
+
+.projImage {
+  border: #000 2px solid;
+}
+
+.projTitle {
+  display: flex;
+  justify-content: center;
+
+}
+
+.projButton :hover {
+  transform: scale(1.15);
+}
+
+.projButton {
+  display: flex;
+  padding-top: .75rem;
+  justify-content: space-evenly;
+  gap: 2rem;
+}
+
+.projDetails {
+  color: #000;
+  display: flex;
+  justify-content: center;
+  padding: .75rem;
+}
+
+.projTechnology {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.projectLink {
+  color: #00a651;
+  text-decoration: none;
+}
+
+.ContactMe {
+  padding: 1rem;
+  margin: 0%;
+  vertical-align: baseline;
+  gap: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.ContactMe p {
+  padding: 1rem;
+  margin: 0%;
+  vertical-align: baseline;
+}
+
+.ThankYou {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.FooterIcons {
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  padding: 2rem;
+}
+
+.FooterIcons :hover {
+  transform: scale(1.15);
+  
+}
+
+
+.footer {
+  background-color: #54514D;
+  margin: 0%;
+}
+
+
+
